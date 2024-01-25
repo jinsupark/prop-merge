@@ -1,6 +1,6 @@
 {
   "name": "prop-merge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to override and merge existing attribute props in Astro and Alpine.",
   "main": "index.js",
   "type": "module",
